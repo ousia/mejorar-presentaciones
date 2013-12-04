@@ -4,7 +4,14 @@ Esta página explica un método para conseguir la difusión más efectiva de pre
 
 ## Presentación
 
-<p class="flash_presentation"><object type="application/x-shockwave-flash" data="./swf/ediciones-criticas-loader.swf" width="400" height="300"><param name="movie" value="./swf/ediciones-criticas-loader.swf"/><param name="play" value="true"/><param name="loop" value="false"/><param name="quality" value="high"/><param name="loop" value="false"/><param name="allowfullscreen" value="true"/></object></p>
+<p class="flash_presentation">
+    <object type="application/x-shockwave-flash" data="./mejorar-presentaciones-loader.swf" width="400" height="300">
+        <param name="movie" value="./mejorar-presentaciones-loader.swf"/>
+        <param name="play" value="true"/><param name="loop" value="false"/>
+        <param name="quality" value="high"/><param name="loop" value="false"/>
+        <param name="allowfullscreen" value="true"/>
+    </object>
+</p>
 
 ## Atajos de teclado
 
@@ -22,9 +29,9 @@ Esta página explica un método para conseguir la difusión más efectiva de pre
 
 * **Abajo** va a la última diapositiva (y acaba la presentación).
 
-Licencia
+## Licencia
 
-El contenido de la presentación y el artículo se otorga al público bajo la licencia Creative Commons Reconocimiento–CompartirIgual 3.0 España.
+El contenido de la presentación y el artículo se otorga al público bajo la licencia [_Creative Commons_ Reconocimiento–CompartirIgual 3.0 España](https://creativecommons.org/licenses/by-sa/3.0/es/).
 
 ## Contacto
 
